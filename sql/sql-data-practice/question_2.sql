@@ -1,5 +1,5 @@
--- Zopovězení otázky č. 2 - Kolik je možné si koupit litrů mléka a kilogramů chleba za první 
---                          a poslední srovnatelné období v dostupných datech cen a mezd?
+--- Answer to Question 2 – How many liters of milk and kilograms of bread can be purchased in the first 
+--                         and the last comparable period available in the wage and price data?
 
 WITH max_min AS(
 SELECT min(salary), max(salary)
