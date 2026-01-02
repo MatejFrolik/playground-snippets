@@ -78,10 +78,7 @@ python main.py
 ### Output
 tables_output/
 ├── table_1_1.csv
-
 ├── table_1_2.csv
-
 ├── ...
-
 └── all_tables.xlsx
 
