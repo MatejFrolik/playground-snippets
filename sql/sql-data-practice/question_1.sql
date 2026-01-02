@@ -1,4 +1,4 @@
--- Zodpovězení otázky č. 1 - Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
+-- Answer to Question 1 – Do wages increase over the years across all industries, or do they decline in some sectors?
 
 SELECT t.branch_name, t.payroll_year, t2.payroll_year AS year_prew, 
 	   round( (t.salary - t2.salary) / t2.salary * 100, 1) AS salary_growth_percent
