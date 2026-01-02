@@ -84,3 +84,6 @@ tables_output/
 └── all_tables.xlsx
 ```
 
+## Author
+**Matej Frolik**  
+Medior Data/IT Analyst
