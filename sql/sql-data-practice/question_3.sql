@@ -1,5 +1,4 @@
--- Zodpovězení otázky č. 3 - Která kategorie potravin zdražuje nejpomaleji 
---                           (je u ní nejnižší percentuální meziroční nárůst)?
+-- Answer to Question 3 – Which food category increases in price the slowest (i.e., has the lowest year-over-year percentage increase)?
 
 CREATE OR REPLACE VIEW interannual_growth AS(
 SELECT t.foodstuff_name, t.price_year, t2.price_year AS prew_year, t.cost, t2.cost cost_prew,
