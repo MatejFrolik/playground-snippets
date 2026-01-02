@@ -58,3 +58,7 @@ This project is intended **solely for demonstration and learning purposes**.
 ---
 
 <img width="1376" height="767" alt="Snímek obrazovky 2026-01-02 140704" src="https://github.com/user-attachments/assets/ed60f574-e285-4aa3-8ce0-b3b6827ea3d1" />
+
+## Author
+**Matej Frolik**  
+Medior Data/IT Analyst
