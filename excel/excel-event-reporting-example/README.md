@@ -58,3 +58,7 @@ No real CRM, client, or company data are included.
 <br />
 
 <img width="1075" height="646" alt="Snímek obrazovky 2026-01-02 132123" src="https://github.com/user-attachments/assets/e2e46aef-cff3-49fa-87e6-ca60167cfdb0" />
+
+## Author
+**Matej Frolik**  
+Medior Data/IT Analyst
