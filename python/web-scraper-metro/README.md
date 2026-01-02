@@ -15,3 +15,6 @@ Learning and experimenting with HTTP requests, HTML parsing, and data export.
 ## Notes
 This is a learning-oriented project and not intended for production use.
 
+## Author
+**Matej Frolik**  
+Medior Data/IT Analyst
