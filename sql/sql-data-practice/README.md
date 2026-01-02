@@ -15,3 +15,6 @@ Learning and practicing common SQL patterns used in data analytics.
 ## Notes
 Learning-oriented project, not intended for production use.
 
+## Author
+**Matej Frolik**  
+Medior Data/IT Analyst
