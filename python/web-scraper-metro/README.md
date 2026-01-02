@@ -1,5 +1,5 @@
 # Web Scraper – Metro Data
-My LINKEDIN **Linkedl** [HERE](https://www.linkedin.com/in/matěj-frol%C3%ADk-183812230/).
+My **LINKEDIN** [HERE](https://www.linkedin.com/in/matěj-frol%C3%ADk-183812230/).
 
 Small Python project focused on web scraping and basic data extraction.
 
