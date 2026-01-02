@@ -48,8 +48,9 @@ No real CRM, client, or company data are included.
 - The focus is on understanding data preparation and reporting logic rather than advanced analytics.
 - The solution prioritizes clarity and usability over complexity.
 
+---
 
-## data visualizations
+## Data visualizations
 <br />
 
 <img width="1552" height="673" alt="Snímek obrazovky 2026-01-02 132054" src="https://github.com/user-attachments/assets/245dccce-9353-42b5-b304-57e452076891" />
