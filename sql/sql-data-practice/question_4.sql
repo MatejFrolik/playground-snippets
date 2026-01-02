@@ -1,5 +1,5 @@
--- Zodpovězení otázky č. 4 - 4. Existuje rok, ve kterém byl meziroční nárůst 
---                              cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
+-- Answer to Question 4 – Is there a year in which the year-over-year increase in food 
+--                        prices was significantly higher than wage growth (greater than 10%)?
 
 
 CREATE OR REPLACE VIEW salary_growth AS (
