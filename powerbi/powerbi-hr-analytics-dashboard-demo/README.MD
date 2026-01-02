@@ -1,10 +1,10 @@
 # Power BI – Employee Turnover Analysis Dashboard
 
+My **LINKEDIN** [HERE](https://www.linkedin.com/in/matěj-frol%C3%ADk-183812230/).
+
 ## Overview
 This project presents an analytical dashboard focused on employee turnover trends in a manufacturing-like environment.  
 It demonstrates how workforce data can be modeled, analyzed, and visualized to support HR and management decision-making.
-
-🔗 LinkedIn: [Matej Frolik](https://www.linkedin.com/in/mat%C4%9Bj-frol%C3%ADk-183812230/)
 
 ---
 
@@ -57,3 +57,4 @@ This project is intended **solely for demonstration and learning purposes**.
 
 ---
 
+<img width="1368" height="765" alt="Snímek obrazovky 2026-01-02 140054" src="https://github.com/user-attachments/assets/43dbdb5c-92c0-4f2f-b20a-94571742a1ce" />
