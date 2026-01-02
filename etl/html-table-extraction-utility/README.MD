@@ -67,7 +67,7 @@ No internal, confidential, or restricted data are included in this repository.
 ### Requirements
 Install required dependencies:
 ```bash
-pip install requests pandas beautifulsoup4 lxml xlsxwriter ```
+pip install requests pandas beautifulsoup4 lxml xlsxwriter
 
 ### Configuration
 URL = "https://example.com"
